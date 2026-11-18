@@ -1,5 +1,7 @@
 {
   "app": {
-    "version": "1.4.4"
+    "version": "1.5",
+    "url": "https://raw.githubusercontent.com/microbians/microclips/main/c12390ee54c2e1f9af52015e",
+    "sha256": "0ac5a04d2f91c6058d2a4002584ed86236390c407dde212f5fb5b452140a98dd"
   }
 }
